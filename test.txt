@@ -1,0 +1,107 @@
+4:30 PM  Connecting...
+4:30 PM  Connected. A Fido representative will be with you shortly.
+4:31 PM  Support session established with Mark.
+4:31 PM  	Mark: 
+Fido LiveANSWERS™ 
+Hey, I’m Mark. Nice to meet you! I just need a second to pull up your account and we’ll get started. Thanks.
+4:31 PM  	Vijayaraghavan Ravi: 
+Hi
+4:32 PM  	Mark: 
+Hi Vijayaraghavan, I can see that you haven't posed a question in chat, what is it I can help you with today?
+4:33 PM  	Vijayaraghavan Ravi: 
+Hi I want to know why my bill is too high ?
+4:34 PM  	Mark: 
+I can definitely help you with the understanding of the bill. It would help if you knew how to view the details online, do you know how to check your billing details on our website?
+4:34 PM  	Vijayaraghavan Ravi: 
+no
+4:35 PM  	Mark: 
+I will provide you with the instructions so that you have a resource to check the details of your bills any time
+4:35 PM  	Mark: 
+I will also explain this month's current bill
+4:35 PM  	Vijayaraghavan Ravi: 
+ok
+4:35 PM  	Vijayaraghavan Ravi: 
+I do have an account though
+4:36 PM  	Mark: 
+To view/print your detailed bill:
+
+- In the Payment information section on Fido.ca, click My Invoice History then select the month you'd like to review and click View invoice;
+- Next, click Download / Print PDF invoice on the right side (just above the Terms and Conditions link).
+4:36 PM  	Vijayaraghavan Ravi: 
+and i can check the usage
+4:37 PM  	Vijayaraghavan Ravi: 
+In the invoice history the latest I can see is May 08
+4:37 PM  	Mark: 
+That is the correct invoice to pick
+4:37 PM  	Mark: 
+Click view invoice on May 8th
+4:37 PM  	Mark: 
+ Next, click Download / Print PDF invoice on the right side (just above the Terms and Conditions link)
+4:40 PM  	Mark: 
+Are you still there, Vijayaraghavan ?
+4:40 PM  	Vijayaraghavan Ravi: 
+yes i was just looking at the bill\
+4:41 PM  	Mark: 
+As the invoice shows, you had exceeded the minutes last month
+4:41 PM  	Mark: 
+So, you used your 200 included in the plan and then an additional 29 minutes
+4:41 PM  	Vijayaraghavan Ravi: 
+okay is it in any time minutes ?
+4:42 PM  	Mark: 
+Specifically, it was your day time minutes
+4:42 PM  	Vijayaraghavan Ravi: 
+okay but when i check usage through my account it says i used only 41 out of 200 mins
+4:43 PM  	Mark: 
+That would be for your current month, last month's usage information has already closed up to be able to be viewed
+4:43 PM  	Vijayaraghavan Ravi: 
+ok but most of my calls were for 1800 why was i charged for them ?
+4:44 PM  	Vijayaraghavan Ravi: 
+Aren't they supposed to be toll free ?
+4:44 PM  	Mark: 
+Calls to toll free numbers still use your minutes in the daytime, they may be toll free as in there is no charge to call them but they do use your airtime
+4:46 PM  	Mark: 
+All calls, Canada wide are toll free. Do you use a 1800 service for a calling card or something similar for international calling?
+4:47 PM  	Vijayaraghavan Ravi: 
+Nope they are calls made to the government. What is the meaning of toll free when i get charged for them. This is ridiculous
+4:48 PM  	Mark: 
+I am sorry for any misunderstanding, but calls made in the daytime use your airtime in your plan, regardless if they are toll free. 
+
+We aren't charging you to call the toll free number, we are charging you because you have exceeded the minutes in your plan
+4:49 PM  	Mark: 
+Out of the additional minutes you were billed for, none of them are specifically accounted to 1800 phone calls, they were calls made or received
+4:49 PM  	Mark: 
+Your calls earlier in your month in your daytime to 1800 numbers do you use your airtime
+4:50 PM  	Mark: 
+If you call a toll free number (1-800/1-888/1-866/1-877), you won’t incur long distance charges, but airtime is still being used.
+4:50 PM  	Vijayaraghavan Ravi: 
+And what are the additional charges per min if I exceed the airtime ?
+4:51 PM  	Mark: 
+The rate of your plan is 45c per minute
+4:52 PM  	Vijayaraghavan Ravi: 
+Okay If i call non toll free numbers will i still be charged 45c per min ?
+4:52 PM  	Mark: 
+Only if you are over your 200 minutes included in your plan
+4:53 PM  	Mark: 
+You have 200 day time minutes from 7am to 5pm and unlimited evenings (5pm-7am) and weekends for calling
+4:53 PM  	Mark: 
+If you exceed the 200 daytime, any usage in the day - incoming or outgoing phone calls, will be billed to you at the rate of 45c per minute
+4:53 PM  	Vijayaraghavan Ravi: 
+okay what if i exceeded the data ?
+4:53 PM  	Vijayaraghavan Ravi: 
+I have a 50MB data limit
+4:54 PM  	Mark: 
+I'll need a moment to check the rate for your data
+4:55 PM  	Mark: 
+The overage rate on your data is 5$ per additional 50mb
+4:57 PM  	Vijayaraghavan Ravi: 
+I still don't understand why calls for toll free nos are counted in airtime minutes.
+4:58 PM  	Vijayaraghavan Ravi: 
+Especially when i will be charged the same for non toll free nos when i exceed the limit
+4:58 PM  	Mark: 
+It's because you are using airtime to make the phone calls to the 1-800 numbers.
+4:59 PM  	Mark: 
+Airtime isn't specific to who you are calling necessarily, unless you were doing international long distance, then the rates the overage airtime + the long distance rate
+5:00 PM  	Vijayaraghavan Ravi: 
+Whatever there is nothing free in toll free.
+5:01 PM  	Vijayaraghavan Ravi: 
+Anyways thanks for your time and patience. It was quite an useful info.
